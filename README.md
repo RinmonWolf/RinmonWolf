@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RinmonWolf
 - 👀 I’m interested in coding, 摄影, etc.
 - 🌱 I’m currently learning coding.
-- 🌍 I speak 中文/Chinese ( and i can read/talk with other language with translate tools.
+- 🌍 I speak 中文/Chinese ( and i can read/talk with other language with translate tools.）
 - 🌍 English is OK, too. 
 
 <!---
